@@ -1,8 +1,8 @@
 <!-- BANNER -->
 
-<h1 style="text-align: center;">Hello! I'm Vada Karlen.</h1>
+<h1 style="text-align: center">Hello! I'm Vada Karlen.</h1>
 
-<h2 style="text-align: center;">I'm a Full Stack Software Engineer</h2>
+<h2 style="text-align: center">I'm a Full Stack Software Engineer</h2>
 
 <b>Languages:</b> Javascript, PostgreSQL, Python, HTML5, CSS
 
@@ -21,7 +21,7 @@ LinkedIn: linkedin.com/in/vadak/
 
 # <h3>🌱 I'm currently learning...</h3>
 
-- JavaScript Unit Testing
+- Unit Testing
 - AWS Cloud Services
 - React Native
 
