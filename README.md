@@ -4,6 +4,8 @@
 
 <h2 style="text-align: center">I'm a Full Stack Software Engineer</h2>
 
+[![Vada’s github stats](https://github-readme-stats.vercel.app/api?username=vkarlen)](https://github.com/vkarlen)
+
 <b>Languages:</b> Javascript, PostgreSQL, Python, HTML5, CSS
 
 <b>Tools/Frameworks:</b> React-DOM, React-Native, Redux, Node.js, AJAX, Express, jQuery, Flask, Jest, Material-UI, Bootstrap, Git
@@ -24,8 +26,6 @@
 - Unit Testing
 - AWS Cloud Services
 - React Native
-
-[![Vada’s github stats](https://github-readme-stats.vercel.app/api?username=vkarlen)](https://github.com/vkarlen)
 
 <!-- # Fun Fact ... -->
 
