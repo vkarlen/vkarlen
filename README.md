@@ -12,10 +12,6 @@
 
 <b>Interests:</b> Drawing, Houseplants, Dog Sports, Video Games, Hiking, Animation
 
-# <h3>🤝 Connect with me...</h3>
-
-- LinkedIn: linkedin.com/in/vadak/
-
 # <h3>💻 I'm currently working on...</h3>
 
 - My personal portfolio
@@ -26,6 +22,10 @@
 - Unit Testing
 - AWS Cloud Services
 - React Native
+
+# <h3>🤝 Lets get in touch...</h3>
+
+<a href="https://www.linkedin.com/in/vadak/"><img align="left" src="https://raw.githubusercontent.com/vkarlen/vkarlen/main/images/linkedin.svg" alt="Vada Karlen | LinkedIn" width="30px"/></a>
 
 <!-- # Fun Fact ... -->
 
