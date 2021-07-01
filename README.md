@@ -12,8 +12,7 @@
 
 # <h3>🤝 Connect with me...</h3>
 
-LinkedIn: linkedin.com/in/vadak/
-<a href=”https://www.linkedin.com/in/vadak/"><img align=”left” src=”https://raw.githubusercontent.com/vkarlen/vkarlen/main/images/icon.png" alt=”icon | LinkedIn” width=”21px”/></a>
+- LinkedIn: linkedin.com/in/vadak/
 
 # <h3>💻 I'm currently working on...</h3>
 
