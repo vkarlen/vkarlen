@@ -13,6 +13,7 @@
 # <h3>🤝 Connect with me...</h3>
 
 LinkedIn: linkedin.com/in/vadak/
+<a href=”https://www.linkedin.com/in/vadak/"><img align=”left” src=”https://raw.githubusercontent.com/vkarlen/vkarlen/main/images/icon.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
 # <h3>💻 I'm currently working on...</h3>
 
@@ -24,6 +25,8 @@ LinkedIn: linkedin.com/in/vadak/
 - Unit Testing
 - AWS Cloud Services
 - React Native
+
+[![Vada’s github stats](https://github-readme-stats.vercel.app/api?username=vkarlen)](https://github.com/vkarlen)
 
 <!-- # Fun Fact ... -->
 
