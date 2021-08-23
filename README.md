@@ -15,7 +15,7 @@
 # <h3>💻 I'm currently working on...</h3>
 
 - My personal portfolio
-- Converting Sniffer to React Native
+- Dungeon Journal, a D&D notetaking app
 
 # <h3>🌱 I'm currently learning...</h3>
 
