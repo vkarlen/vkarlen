@@ -14,6 +14,7 @@
 
 # <h3>💻 I'm currently working on...</h3>
 
+- MintBean Hackathon Game
 - My personal portfolio
 - Dungeon Journal, a D&D notetaking app
 
