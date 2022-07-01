@@ -20,7 +20,7 @@
 
 - --!>
 
-# <h3>🤝 Lets get in touch...</h3>
+<h3>🤝 Lets get in touch...</h3>
 
 <a href="https://www.linkedin.com/in/vadak/"><img align="left" src="https://raw.githubusercontent.com/vkarlen/vkarlen/main/images/linkedin.svg" alt="Vada Karlen | LinkedIn" width="30px"/></a>
 
