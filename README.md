@@ -6,23 +6,19 @@
 
 [![Vada’s github stats](https://github-readme-stats.vercel.app/api?username=vkarlen)](https://github.com/vkarlen)
 
-<b>Languages:</b> Javascript, PostgreSQL, Python, HTML5, CSS
+<b>Languages:</b> Javascript, Typescript, PostgreSQL, Scala, Python, HTML5, CSS
 
-<b>Tools/Frameworks:</b> React-DOM, React-Native, Redux, Node.js, AJAX, Express, jQuery, Flask, Jest, Material-UI, Bootstrap, Git
+<b>Tools/Frameworks:</b> React.js, React Native, RxJS, Redux, Node.js, AJAX, Express, jQuery, Flask, Jest, Material-UI, Bootstrap, Git
 
 <b>Interests:</b> Drawing, Houseplants, Dog Sports, Video Games, Hiking, Animation
 
-# <h3>💻 I'm currently working on...</h3>
+<!-- # <h3>💻 I'm currently working on...</h3>
 
-- MintBean Hackathon Game
-- My personal portfolio
-- Dungeon Journal, a D&D notetaking app
+- 
 
 # <h3>🌱 I'm currently learning...</h3>
 
-- Unit Testing
-- AWS Cloud Services
-- React Native
+- --!>
 
 # <h3>🤝 Lets get in touch...</h3>
 
