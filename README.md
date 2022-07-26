@@ -10,7 +10,6 @@
 
 <b>Tools/Frameworks:</b> React.js, React Native, RxJS, Redux, Node.js, AJAX, Express, jQuery, Flask, Jest, Material-UI, Bootstrap, Git
 
-<b>Interests:</b> Drawing, Houseplants, Dog Sports, Video Games, Hiking, Animation
 
 <!-- # <h3>💻 I'm currently working on...</h3>
 
